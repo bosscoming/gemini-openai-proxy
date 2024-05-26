@@ -5,7 +5,7 @@ go 1.21.1
 require (
 	github.com/gin-contrib/cors v1.7.1
 	github.com/gin-gonic/gin v1.9.1
-	github.com/google/generative-ai-go v0.10.0
+	github.com/google/generative-ai-go v0.12.0
 	github.com/google/uuid v1.6.0
 	github.com/pkg/errors v0.9.1
 	github.com/sashabaranov/go-openai v1.20.4
